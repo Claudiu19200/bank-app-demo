@@ -7,4 +7,13 @@ About this app-demo:
 
 There are 2 "clients" in this Bank: 
 
-Jonas Schedtmann 
+Jonas Schedtmann and Jessica Davis and there is a Log In page where they connect with the first letter of their names "js" and "jd"
+
+When they connect to the account they have : 
+
+- a transactional history with their transactions 
+- an option to transfer money to each other 
+- an option to loan money if in their transactional history exist a sum of money that is 10% from their loan
+- an option to delete the account
+- a timer if they do not do an action in 5 minutes and the account is logged out 
+- a small evidence about how much money they deposit it , how much withdrawals they have and interest rate(  
