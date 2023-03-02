@@ -16,4 +16,6 @@ When they connect to the account they have :
 - an option to loan money if in their transactional history exist a sum of money that is 10% from their loan
 - an option to delete the account
 - a timer if they do not do an action in 5 minutes and the account is logged out 
-- a small evidence about how much money they deposit it , how much withdrawals they have and interest rate(  
+- a small evidence about how much money they deposit it , how much withdrawals they have and interest rate
+
+This project put a lot accent on ES6 features and I learned the essential elements from this .
